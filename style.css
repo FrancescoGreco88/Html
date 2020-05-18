@@ -1,0 +1,40 @@
+/*Commenti*/
+h2, h3, h4{
+    color:green;
+}
+
+h2{
+    color:red;
+}
+
+h5{
+    font-size: 20px;
+    /* padding: 30px; */
+    border: 2px solid green;
+    width: 60px;
+    height:70px;
+
+    /*
+    padding: 30px 15px;    verticale orizzontale */
+    padding: 5px 20px 5px 32px;    /* Sopra Destra Sotto Sinistra */
+
+    margin-top: 80px;
+}
+
+.con {
+    color: blueviolet;
+    background-color: darkgoldenrod;
+    text-align: center;
+    border: 1px solid blue;
+    font-weight: bold;
+    padding:15px;
+}
+
+#tag4 {
+    color:blue;
+}
+
+
+p:last-of-type{
+    margin-bottom: 200px;
+}
